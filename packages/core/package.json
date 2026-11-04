@@ -1,0 +1,16 @@
+{
+  "name": "@nepali-calendar/core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Framework-independent Nepali calendar core (not implemented yet)",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
